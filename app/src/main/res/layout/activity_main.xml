@@ -195,7 +195,7 @@
         android:ems="10"
         android:gravity="start|top"
         android:inputType="textMultiLine"
-        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteX="11dp"
         tools:layout_editor_absoluteY="208dp" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
@@ -204,7 +204,7 @@
         android:layout_height="53dp"
         android:backgroundTint="#FFFFFF"
         android:clickable="true"
-        app:srcCompat="@drawable/b"
+        app:srcCompat="@drawable/c"
         tools:layout_editor_absoluteX="342dp"
         tools:layout_editor_absoluteY="215dp" />
 
@@ -237,7 +237,7 @@
 
         <TextView
             android:id="@+id/textView28"
-            android:layout_width="188dp"
+            android:layout_width="163dp"
             android:layout_height="wrap_content"
             android:gravity="center"
             android:text="1.8k"
@@ -247,7 +247,7 @@
 
         <TextView
             android:id="@+id/textView27"
-            android:layout_width="191dp"
+            android:layout_width="167dp"
             android:layout_height="wrap_content"
             android:gravity="center"
             android:text="Likes"
@@ -328,8 +328,8 @@
         android:layout_height="wrap_content"
         android:text="Mr stick"
         android:textColor="#FFFF"
-        tools:layout_editor_absoluteX="67dp"
-        tools:layout_editor_absoluteY="246dp" />
+        tools:layout_editor_absoluteX="77dp"
+        tools:layout_editor_absoluteY="232dp" />
 
     <ImageView
         android:id="@+id/imageView8"
